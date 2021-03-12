@@ -23,4 +23,3 @@ My Experience?
 Projects i've done/worked on?
 - www.susoft.no
 - RecipeApp
-- HTML
